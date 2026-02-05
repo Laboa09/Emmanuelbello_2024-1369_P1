@@ -1,4 +1,11 @@
 # Emmanuelbello_2024-1369_P1
+
+⚠️ Uso estrictamente educativo / laboratorio
+
+Este repositorio contiene material desarrollado únicamente para prácticas académicas en un entorno aislado y controlado.
+No debe usarse en redes/sistemas reales ni sin autorización explícita.
+El autor no promueve el uso indebido y asume que cualquier ejecución será con permiso.
+
 ARP Spoofing (Man-in-the-Middle).
 Video de Demostración
 https://youtu.be/ZVodf3atLXs
